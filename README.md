@@ -1,4 +1,3 @@
-## [![MasterHead](https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-12-29/9952f320-49c4-11eb-8e93-835c7725694d.jpg)]
 <h1 align="center">Hi 👋, I'm Galiley Singgang M.Y</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasimaru00&label=Profile%20views&color=0e75b6&style=flat" alt="yasimaru00" /> </p>
